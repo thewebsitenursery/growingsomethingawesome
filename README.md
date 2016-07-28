@@ -1,9 +1,9 @@
-# Something Awesome
+# Growing Something Awesome
 
-## coming soon template for new web projects
+## Coming Soon template for new web projects
 ### Automatic redirect to video or image slider background depending on users device / browser
 
-Example: https://thewebsitenursery.com/somethingawesome
+Example at: https://thewebsitenursery.com/somethingawesome
 
 __fork for new projects and make changes:__
 
@@ -15,8 +15,6 @@ __fork for new projects and make changes:__
 __git clone into the root directory of new project webserver root:__
 
 cd /var/www/html
-git clone https://github.com/thewebsitenursery/somethingawesome .
-
-__DO NOT OMMIT THE '.' ABOVE__
+git clone https://github.com/thewebsitenursery/growingsomethingawesome .
 
 __Secure Project using Lets Encrypt__
