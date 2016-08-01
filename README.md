@@ -3,7 +3,7 @@
 ## Coming Soon template for new web projects
 ### Automatic redirect to video or image slider background depending on users device / browser
 
-Example at: https://thewebsitenursery.com/somethingawesome
+Example at: https://thewebsitenursery.com/awesome
 
 __fork for new projects and make changes:__
 
