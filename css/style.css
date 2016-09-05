@@ -169,7 +169,7 @@ img {
 	vertical-align: middle;
 	-ms-interpolation-mode: bicubic;
 	left: auto;
-	width: 55%;
+	width: 35%;
 	height: auto;
 }
 
@@ -589,6 +589,7 @@ display: none;
 -------------------------------------------------*/
 /* Header */
 .site-title {
+	margin-top:10px;
 	font-size: 30px;
 	margin-bottom: 10px;
 }
@@ -683,7 +684,6 @@ display: none;
 	bottom: 10px;
 	height: 25px;
 	left: 0;
-	position: absolute;
 	text-align: center;
 	width: 100%;
 }
@@ -772,6 +772,7 @@ display: none;
 }
 
 .modal-toggle2 {
+margin-top:10px;
     text-align: center;
     text-decoration: none;
 }
